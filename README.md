@@ -1,2 +1,2 @@
 # VampireSurvivorsM
-VampireSurvivorsM
+VampireSurvivors Mobile Project
